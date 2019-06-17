@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="mdx" type="Markdown" />
       <mapping pattern="LogoBox.js" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
